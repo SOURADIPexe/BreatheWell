@@ -1,6 +1,7 @@
 # BreatheWell
 
-An IOT Project that monitors Air Quality and helps users to notify, analyze different gases, temperature and humidity to stay healthy. 
+An IOT Project that monitors Air Quality and helps users to notify, analyze different gases, temperature and humidity to stay healthy.
+Project member : Shidharth Laishram [@shwwid](https://github.com/shwwid)
 
 # Start Page
 ![WhatsApp Image 2025-08-08 at 02 49 53_0b1a4f7e](https://github.com/user-attachments/assets/612f65ee-fc78-41b6-9d8e-a245ba87ec9b)
